@@ -16,7 +16,7 @@ def example_list_function():
 # Call the function and print each element
 example_list_function()
 
-print ("Exercise 1: List and Indexing")
+# Exercise 1: List and Indexing
 #
 # Create a list named students containing at least three student names (strings).
 # Assign the second student’s name to a variable named first_student.
@@ -34,7 +34,7 @@ def manage_students():
 print('Exercise 1:', manage_students())
 
 
-print ("Exercise 2: Loop and String Concatenation")
+# Exercise 2: Loop and String Concatenation
 #
 # Create a tuple named foods containing the same number of foods (strings) as there are names in the students list.
 # Create a variable named meal and assign an empty string to it.
